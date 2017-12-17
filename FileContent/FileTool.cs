@@ -60,13 +60,14 @@ public class  FileTool : IFileTool
     public void Readfile_n2m()
     {
         string filePath = "C:\\content.txt";
-        byte[] byteArray = new byte[100];
-        char[] charArray = new char[100];
+        int len = m - n;
+        byte[] byteArray = new byte[len];
+        char[] charArray = new char[len];
         string resultStr = string.Empty;
         using(FileStream fs = new FileStream(filePath,FileMode.OpenOrCreate,FileAccess.Read))
         {
             fs.Seek(0,SeekOrigin.Begin);
-            fs.Read(byteArray,0,200);
+            fs.Read(byteArray,0,len*2);
             Decoder dec = Encoding.UTF8.GetDecoder();
             dec.GetChars(byteArray, 0, byteArray.Length, charArray, 0);
         }
