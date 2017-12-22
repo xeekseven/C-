@@ -1,0 +1,10 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\DataTableOperator\bin\Debug\DataTableOperator.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\DataTableOperator\bin\Debug\DataTableOperator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\DataTableOperator\obj\Debug\DataTableOperator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\DataTableOperator\obj\Debug\DataTableOperator.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\DataTableOperator\obj\Debug\DataTableOperator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\DataTableOperator\bin\Debug\DataTableOperator.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\DataTableOperator\bin\Debug\DataTableOperator.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\DataTableOperator\obj\Debug\DataTableOperator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\DataTableOperator\obj\Debug\DataTableOperator.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\DataTableOperator\obj\Debug\DataTableOperator.pdb

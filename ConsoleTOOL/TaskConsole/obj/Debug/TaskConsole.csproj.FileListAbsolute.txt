@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\TaskConsole\bin\Debug\TaskConsole.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\TaskConsole\bin\Debug\TaskConsole.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\TaskConsole\bin\Debug\TaskConsole.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\TaskConsole\obj\Debug\TaskConsole.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\TaskConsole\obj\Debug\TaskConsole.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\TaskConsole\obj\Debug\TaskConsole.csprojResolveAssemblyReference.cache

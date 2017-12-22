@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\dynamicCompilationConsole\obj\Release\dynamicCompilationConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\dynamicCompilationConsole\bin\Release\dynamicCompilationConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\dynamicCompilationConsole\bin\Release\dynamicCompilationConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\dynamicCompilationConsole\obj\Release\dynamicCompilationConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\dynamicCompilationConsole\obj\Release\dynamicCompilationConsole.pdb

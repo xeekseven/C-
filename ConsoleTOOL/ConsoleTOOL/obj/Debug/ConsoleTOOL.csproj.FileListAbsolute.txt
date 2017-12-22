@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\ConsoleTOOL\bin\Debug\ConsoleTOOL.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\ConsoleTOOL\bin\Debug\ConsoleTOOL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\ConsoleTOOL\obj\Debug\ConsoleTOOL.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\ConsoleTOOL\obj\Debug\ConsoleTOOL.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\ConsoleTOOL\obj\Debug\ConsoleTOOL.csprojResolveAssemblyReference.cache

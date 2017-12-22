@@ -1,0 +1,6 @@
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\PLinqConsole\bin\Debug\PLinqConsole.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\PLinqConsole\bin\Debug\PLinqConsole.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\PLinqConsole\bin\Debug\PLinqConsole.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\PLinqConsole\obj\Debug\PLinqConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\PLinqConsole\obj\Debug\PLinqConsole.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\ConsoleTOOL\PLinqConsole\obj\Debug\PLinqConsole.pdb

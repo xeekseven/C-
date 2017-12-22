@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\bin\Debug\OledDBOpExcel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\bin\Debug\OledDBOpExcel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\obj\Debug\OledDBOpExcel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\obj\Debug\OledDBOpExcel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\obj\Debug\OledDBOpExcel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\bin\Debug\OledDBOpExcel.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\OledDBOpExcel\bin\Debug\OledDBOpExcel.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\OledDBOpExcel\bin\Debug\OledDBOpExcel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\OledDBOpExcel\bin\Debug\OledDBOpExcel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\OledDBOpExcel\obj\Debug\OledDBOpExcel.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\OledDBOpExcel\obj\Debug\OledDBOpExcel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\OledDBOpExcel\obj\Debug\OledDBOpExcel.pdb

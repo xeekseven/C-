@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\ParallelModelConsole\bin\Debug\ParallelModelConsole.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\ParallelModelConsole\bin\Debug\ParallelModelConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\ParallelModelConsole\bin\Debug\ParallelModelConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\ParallelModelConsole\obj\Debug\ParallelModelConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\ParallelModelConsole\obj\Debug\ParallelModelConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\ParallelModelConsole\obj\Debug\ParallelModelConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\AsyncIO\bin\Debug\AsyncIO.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\AsyncIO\obj\Debug\AsyncIO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\AsyncIO\bin\Debug\AsyncIO.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\AsyncIO\bin\Debug\AsyncIO.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\AsyncIO\obj\Debug\AsyncIO.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\AsyncIO\obj\Debug\AsyncIO.pdb

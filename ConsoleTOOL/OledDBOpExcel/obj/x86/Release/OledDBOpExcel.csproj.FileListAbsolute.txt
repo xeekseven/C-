@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\bin\x86\Release\OledDBOpExcel.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\bin\x86\Release\OledDBOpExcel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\bin\x86\Release\OledDBOpExcel.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\obj\x86\Release\OledDBOpExcel.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\OledDBOpExcel\obj\x86\Release\OledDBOpExcel.pdb

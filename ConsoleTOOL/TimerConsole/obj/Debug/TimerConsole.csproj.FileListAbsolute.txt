@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\TimerConsole\bin\Debug\TimerConsole.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\TimerConsole\obj\Debug\TimerConsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\TimerConsole\bin\Debug\TimerConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\TimerConsole\bin\Debug\TimerConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\TimerConsole\obj\Debug\TimerConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleTOOL\TimerConsole\obj\Debug\TimerConsole.pdb

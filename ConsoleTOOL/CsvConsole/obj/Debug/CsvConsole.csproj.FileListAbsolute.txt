@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\CsvConsole\bin\Debug\CsvConsole.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\CsvConsole\bin\Debug\CsvConsole.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\CsvConsole\obj\Debug\CsvConsole.exe
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\CsvConsole\obj\Debug\CsvConsole.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\CsvConsole\bin\Debug\CsvConsole.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\ConsoleTOOL\CsvConsole\obj\Debug\CsvConsole.csprojResolveAssemblyReference.cache

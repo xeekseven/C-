@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\SqlBulCopyConsole.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\SqlBulCopyConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\SqlBulCopyConsole.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\NPOI.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\NPOI.OOXML.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\bin\Release\NPOI.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\obj\Release\SqlBulCopyConsole.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ConsoleApplicationForTest\SqlBulCopyConsole\obj\Release\SqlBulCopyConsole.pdb
