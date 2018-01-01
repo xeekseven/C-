@@ -1,0 +1,6 @@
+D:\VSC_CODE\C#\C-\ConsoleTOOL\GenericConsole\bin\Debug\GenericConsole.exe.config
+D:\VSC_CODE\C#\C-\ConsoleTOOL\GenericConsole\bin\Debug\GenericConsole.exe
+D:\VSC_CODE\C#\C-\ConsoleTOOL\GenericConsole\bin\Debug\GenericConsole.pdb
+D:\VSC_CODE\C#\C-\ConsoleTOOL\GenericConsole\obj\Debug\GenericConsole.csprojResolveAssemblyReference.cache
+D:\VSC_CODE\C#\C-\ConsoleTOOL\GenericConsole\obj\Debug\GenericConsole.exe
+D:\VSC_CODE\C#\C-\ConsoleTOOL\GenericConsole\obj\Debug\GenericConsole.pdb
