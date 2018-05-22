@@ -1,14 +1,28 @@
 ﻿{
     "ConfigList": [
         {
-            "ToolBarName": "高德POIID图像抓取",
+            "ToolBarName": "图像抓取",
             "ToolChildArray": [
                 {
                     "ClassName": "",
-                    "ConsoleName": "",
-					"ExecFilePath":"",
+                    "ConsoleName": "爬取高德POIID图像",
+					"ExecFilePath":"C:\\Users\\Administrator\\Documents\\visual studio 2013\\Projects\\ConsoleInvoker\\ConsoleInvoker\\bin\\Debug\\HTTPConsole.exe",
 					"ParamName":"ID ExID",
 					"ParamValue":"1 6101"
+                },
+                {
+                    "ClassName": "",
+                    "ConsoleName": "由本机过滤后的IP爬取POIID图像",
+					"ExecFilePath":"高德图形抓取\\FilterPoiidConsole\\FilterPoiidConsole.exe",
+					"ParamName":"临时Status desc或者asc 筛选proxy_ip方式 取值的Status 异常Status",
+					"ParamValue":"6101 desc desc 0 6101"
+                },
+                {
+                    "ClassName": "",
+                    "ConsoleName": "判断相交",
+					"ExecFilePath":"高德图形抓取\\LineIn\\LineIn.exe",
+					"ParamName":"判断的ID",
+					"ParamValue":"1"
                 }
             ]
         }
