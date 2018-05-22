@@ -1,0 +1,16 @@
+﻿{
+    "ConfigList": [
+        {
+            "ToolBarName": "高德POIID图像抓取",
+            "ToolChildArray": [
+                {
+                    "ClassName": "",
+                    "ConsoleName": "",
+					"ExecFilePath":"",
+					"ParamName":"ID ExID",
+					"ParamValue":"1 6101"
+                }
+            ]
+        }
+    ]
+}
