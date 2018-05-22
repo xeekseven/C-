@@ -34,31 +34,31 @@
             this.configSetting = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.treeView = new System.Windows.Forms.TreeView();
             this.ToolMenu = new System.Windows.Forms.TreeView();
             this.tabControl = new System.Windows.Forms.TabControl();
-            this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.label1 = new System.Windows.Forms.Label();
-            this.StartBtn = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
-            this.paramNameTxt = new System.Windows.Forms.TextBox();
-            this.paramTextTxt = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.titleLabel = new System.Windows.Forms.Label();
-            this.treeView = new System.Windows.Forms.TreeView();
-            this.label4 = new System.Windows.Forms.Label();
-            this.execFiletxt = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.nowTabPage = new System.Windows.Forms.Label();
             this.contextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.删除ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.execFiletxt = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.titleLabel = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.paramTextTxt = new System.Windows.Forms.TextBox();
+            this.paramNameTxt = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.StartBtn = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.nowTabPage = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
             this.splitContainer1.SuspendLayout();
             this.tabControl.SuspendLayout();
-            this.tabPage1.SuspendLayout();
             this.contextMenuStrip.SuspendLayout();
+            this.tabPage1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -103,6 +103,15 @@
             this.splitContainer1.SplitterDistance = 255;
             this.splitContainer1.TabIndex = 2;
             // 
+            // treeView
+            // 
+            this.treeView.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.treeView.Location = new System.Drawing.Point(0, 0);
+            this.treeView.Name = "treeView";
+            this.treeView.Size = new System.Drawing.Size(255, 464);
+            this.treeView.TabIndex = 1;
+            this.treeView.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.treeView_MouseDoubleClick);
+            // 
             // ToolMenu
             // 
             this.ToolMenu.Dock = System.Windows.Forms.DockStyle.Fill;
@@ -124,6 +133,20 @@
             this.tabControl.TabIndex = 0;
             this.tabControl.SelectedIndexChanged += new System.EventHandler(this.tabControl_SelectedIndexChanged);
             // 
+            // contextMenuStrip
+            // 
+            this.contextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.删除ToolStripMenuItem});
+            this.contextMenuStrip.Name = "contextMenuStrip";
+            this.contextMenuStrip.Size = new System.Drawing.Size(101, 26);
+            // 
+            // 删除ToolStripMenuItem
+            // 
+            this.删除ToolStripMenuItem.Name = "删除ToolStripMenuItem";
+            this.删除ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
+            this.删除ToolStripMenuItem.Text = "删除";
+            this.删除ToolStripMenuItem.Click += new System.EventHandler(this.删除ToolStripMenuItem_Click);
+            // 
             // tabPage1
             // 
             this.tabPage1.Controls.Add(this.execFiletxt);
@@ -144,14 +167,62 @@
             this.tabPage1.ToolTipText = "启动页";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
-            // label1
+            // execFiletxt
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(85, 185);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(59, 12);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "输入参数:";
+            this.execFiletxt.Location = new System.Drawing.Point(178, 255);
+            this.execFiletxt.Name = "execFiletxt";
+            this.execFiletxt.Size = new System.Drawing.Size(447, 21);
+            this.execFiletxt.TabIndex = 8;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(85, 258);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(59, 12);
+            this.label4.TabIndex = 7;
+            this.label4.Text = "执行路径:";
+            // 
+            // titleLabel
+            // 
+            this.titleLabel.AutoSize = true;
+            this.titleLabel.Location = new System.Drawing.Point(176, 55);
+            this.titleLabel.Name = "titleLabel";
+            this.titleLabel.Size = new System.Drawing.Size(77, 12);
+            this.titleLabel.TabIndex = 6;
+            this.titleLabel.Text = "控制台调用器";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(85, 55);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(41, 12);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "标题：";
+            // 
+            // paramTextTxt
+            // 
+            this.paramTextTxt.Location = new System.Drawing.Point(178, 182);
+            this.paramTextTxt.Name = "paramTextTxt";
+            this.paramTextTxt.Size = new System.Drawing.Size(447, 21);
+            this.paramTextTxt.TabIndex = 4;
+            // 
+            // paramNameTxt
+            // 
+            this.paramNameTxt.Location = new System.Drawing.Point(178, 113);
+            this.paramNameTxt.Name = "paramNameTxt";
+            this.paramNameTxt.Size = new System.Drawing.Size(447, 21);
+            this.paramNameTxt.TabIndex = 3;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(85, 116);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(71, 12);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "输入参数名:";
             // 
             // StartBtn
             // 
@@ -163,71 +234,14 @@
             this.StartBtn.UseVisualStyleBackColor = true;
             this.StartBtn.Click += new System.EventHandler(this.StartBtn_Click);
             // 
-            // label2
+            // label1
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(85, 116);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(71, 12);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "输入参数名:";
-            // 
-            // paramNameTxt
-            // 
-            this.paramNameTxt.Location = new System.Drawing.Point(178, 113);
-            this.paramNameTxt.Name = "paramNameTxt";
-            this.paramNameTxt.Size = new System.Drawing.Size(447, 21);
-            this.paramNameTxt.TabIndex = 3;
-            // 
-            // paramTextTxt
-            // 
-            this.paramTextTxt.Location = new System.Drawing.Point(178, 182);
-            this.paramTextTxt.Name = "paramTextTxt";
-            this.paramTextTxt.Size = new System.Drawing.Size(447, 21);
-            this.paramTextTxt.TabIndex = 4;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(85, 55);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(41, 12);
-            this.label3.TabIndex = 5;
-            this.label3.Text = "标题：";
-            // 
-            // titleLabel
-            // 
-            this.titleLabel.AutoSize = true;
-            this.titleLabel.Location = new System.Drawing.Point(176, 55);
-            this.titleLabel.Name = "titleLabel";
-            this.titleLabel.Size = new System.Drawing.Size(77, 12);
-            this.titleLabel.TabIndex = 6;
-            this.titleLabel.Text = "控制台调用器";
-            // 
-            // treeView
-            // 
-            this.treeView.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.treeView.Location = new System.Drawing.Point(0, 0);
-            this.treeView.Name = "treeView";
-            this.treeView.Size = new System.Drawing.Size(255, 464);
-            this.treeView.TabIndex = 1;
-            this.treeView.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.treeView_MouseDoubleClick);
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(85, 258);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(59, 12);
-            this.label4.TabIndex = 7;
-            this.label4.Text = "执行路径:";
-            // 
-            // execFiletxt
-            // 
-            this.execFiletxt.Location = new System.Drawing.Point(178, 255);
-            this.execFiletxt.Name = "execFiletxt";
-            this.execFiletxt.Size = new System.Drawing.Size(447, 21);
-            this.execFiletxt.TabIndex = 8;
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(85, 185);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(59, 12);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "输入参数:";
             // 
             // label5
             // 
@@ -247,20 +261,6 @@
             this.nowTabPage.TabIndex = 4;
             this.nowTabPage.Text = "启动页";
             // 
-            // contextMenuStrip
-            // 
-            this.contextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.删除ToolStripMenuItem});
-            this.contextMenuStrip.Name = "contextMenuStrip";
-            this.contextMenuStrip.Size = new System.Drawing.Size(101, 26);
-            // 
-            // 删除ToolStripMenuItem
-            // 
-            this.删除ToolStripMenuItem.Name = "删除ToolStripMenuItem";
-            this.删除ToolStripMenuItem.Size = new System.Drawing.Size(100, 22);
-            this.删除ToolStripMenuItem.Text = "删除";
-            this.删除ToolStripMenuItem.Click += new System.EventHandler(this.删除ToolStripMenuItem_Click);
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -278,6 +278,7 @@
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "控制台调用器";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.MainForm_FormClosing);
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -286,9 +287,9 @@
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).EndInit();
             this.splitContainer1.ResumeLayout(false);
             this.tabControl.ResumeLayout(false);
+            this.contextMenuStrip.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
-            this.contextMenuStrip.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 

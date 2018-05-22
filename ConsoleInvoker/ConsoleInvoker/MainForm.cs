@@ -41,6 +41,7 @@ namespace ConsoleInvoker
             }
            
         }
+
         private void MainForm_Load(object sender, EventArgs e)
         {
             try
@@ -164,6 +165,27 @@ namespace ConsoleInvoker
                 MessageBox.Show(ex.ToString());
             }
             
+        }
+
+        private void MainForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            foreach (TabPage pageItem in tabControl.TabPages)
+            {
+                try
+                {
+                    if (pageItem.Tag != null)
+                    {
+                        Process process = pageItem.Tag as Process;
+                        process.Kill();
+                        process.Dispose();
+                    }
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.ToString());
+                }
+                
+            }
         }
 
     }

@@ -32,7 +32,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>bitbug_favicon.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
@@ -92,7 +93,6 @@
     <Folder Include="src\UI\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="bitbug_favicon.ico" />
     <Content Include="StaticConfig\img\bitbug_favicon.ico" />
     <Content Include="StaticConfig\img\closed.ico" />
     <Content Include="StaticConfig\img\folder.ico" />
